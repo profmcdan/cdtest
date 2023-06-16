@@ -1,0 +1,15 @@
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/bin/Debug/net7.0/AlgoReview
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/bin/Debug/net7.0/AlgoReview.deps.json
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/bin/Debug/net7.0/AlgoReview.runtimeconfig.json
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/bin/Debug/net7.0/AlgoReview.dll
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/bin/Debug/net7.0/AlgoReview.pdb
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.csproj.AssemblyReference.cache
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.AssemblyInfoInputs.cache
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.AssemblyInfo.cs
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.dll
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/refint/AlgoReview.dll
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.pdb
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/AlgoReview.genruntimeconfig.cache
+/Users/daniel/Desktop/dotnet/hello/AlgoReview/obj/Debug/net7.0/ref/AlgoReview.dll
